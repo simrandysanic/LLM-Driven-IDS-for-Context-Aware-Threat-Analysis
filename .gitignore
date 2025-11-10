@@ -1,0 +1,21 @@
+# Ignore system and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# Ignore large or sensitive data
+*.pt
+*.tar.gz
+*.zip
+
+# Keep only final CSVs
+*.csv
+!cert/email.csv
+!cert/psychometric.csv
+!cert/processed/*.csv
+!fusion_outputs/*.csv
+
+# Ignore model weights or checkpoints if any
+models/
