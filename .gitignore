@@ -24,3 +24,6 @@ models/
 cert/email.csv
 cert/processed/cert_user_corpus.csv
 cert/processed/unsw_predictions_full.csv
+cert/email.csv
+cert/processed/cert_user_corpus.csv
+cert/processed/unsw_predictions_full.csv
