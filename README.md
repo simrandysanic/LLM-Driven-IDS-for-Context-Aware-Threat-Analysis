@@ -1,8 +1,8 @@
 # LLM-Driven Intrusion Detection System (IDS)
 
 This project implements a **Large Language Model (LLM)-based Intrusion Detection System (IDS)** for **context-aware threat analysis**.  
-It leverages both **behavioral (CERT)** and **network (UNSW-NB15)** datasets to identify insider threats and external cyberattacks.  
-The goal is to develop an interpretable, intelligent IDS capable of analyzing human and network behaviors using advanced embeddings and LLM-generated insights.
+It leverages **behavioral (CERT)** dataset to identify insider threats.  
+The goal is to develop an interpretable, intelligent IDS capable of analyzing human behaviors using advanced embeddings and LLM-generated insights.
 
 ---
 
